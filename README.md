@@ -39,8 +39,8 @@ project-root/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/jameswquinn/preact-responsive-images.git
+   cd preact-responsive-images
    ```
 
 2. Install dependencies:
