@@ -35,8 +35,6 @@ The Webpack configuration in `webpack.config.js` handles the intelligent generat
 
 ## FAQ
 
-... 
-
 Q: Why use WebP?
 A: WebP offers superior compression and quality compared to PNG and JPEG, resulting in smaller file sizes and faster load times.
 
@@ -55,4 +53,4 @@ A: Modify the `sizes` array in the Webpack configuration file.
 Q: How does the image processing decide which formats to generate?
 A: The Webpack configuration analyzes each image. It always creates WebP versions, creates PNG versions only for images with an alpha channel, and creates JPEG versions only for images without an alpha channel.
 
-... 
+
